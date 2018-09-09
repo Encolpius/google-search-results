@@ -6,22 +6,54 @@ In this lesson we will cover common git commands used to manage your projects an
 ### Learning Outcomes
 By the end of this you should be able to:
 
-* Run git commands from the command line
-* Name the git command used to get a full copy an existing git repository from Github
-* Name the git command used to check the status of your files
-* Name the git command used to track files
-* Name the git command used to commit files
-* Name the git command used to view your commit history
-* Name the git command used to upload projects onto GitHub
+<details>
+<summary>Name the git command used to get a full copy of an existing git repository from Github</summary>
+<ul><ul>
+  <li>Use <code>git clone git@github.com:&lt;your-respository-name&gt;</code> to clone the repository</li>
+</ul></ul>
+</details>
+
+<details>
+<summary>Name the git command used to check the status of your files</summary>
+<ul><ul>
+  <li>Use <code>git status</code> to see any changes since your last commit</li>
+</ul></ul>
+</details>
+
+<details>
+<summary>Name the git command used to track files</summary>
+<ul><ul>
+  <li>Use <code>git add</code> to track files</li>
+</ul></ul>
+</details>
+
+<details>
+<summary>Name the git command used to commit files</summary>
+<ul><ul>
+  <li>Use <code>git commit</code> to commit tracked files.</li>
+</ul></ul>
+</details>
+
+<details>
+<summary>Name the git command used to view your commit history</summary>
+<ul><ul>
+  <li>Use <code>git log</code> to view your commit history.</li>
+</ul></ul>
+</details>
+
+<details>
+<summary>Name the git command used to upload projects onto GitHub</summary>
+<ul><ul>
+  <li>Use <code>git push</code> to send your commit to GitHub.</li>
+</ul></ul>
+</details>
 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
 
-  1. [Try Git from codeschool](https://try.github.io/levels/1/challenges/1).
-Follow the exercises up to and including "1.11 Pushing Remotely" then jump back here.
-  2. Now complete the first interactive lesson in the [Basic Git Workflow](https://www.codecademy.com/learn/learn-git). Try to look for an emerging pattern with the commands you are running.
-  3. Watch this [video](https://www.youtube.com/watch?v=HVsySz-h9r4) by Corey Schafer for a great overview of some basic git commands
+  1. Complete the first interactive lesson in the Codecademy [Basic Git Workflow](https://www.codecademy.com/learn/learn-git). Try to look for an emerging pattern with the commands you are running.
+  2. Watch this [video](https://www.youtube.com/watch?v=HVsySz-h9r4) by Corey Schafer for a great overview of some basic git commands.
 
 </div>
 
@@ -29,7 +61,9 @@ Follow the exercises up to and including "1.11 Pushing Remotely" then jump back 
 Here is a reference list of the most commonly used git commands (you might consider bookmarking this handy webpage). Try to familiarise yourself with the commands and then eventually remember them:
 
 * Commands related to remote repository:
-  * `git clone https://github.com/user-name/repository-name.git`
+  * `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git` 
+  or 
+  `git clone https://github.com/user-name/repository-name.git`
   * `git push origin master`
 * Commands related to workflow:
   * `git add .`
@@ -58,7 +92,7 @@ Don't worry if you don't know all the commands yet or that they don't stick at t
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
 * An introductory guide by [Michael Hartl](http://www.michaelhartl.com/) called [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
-* An easy-to-read, pragmatic guide to using Git available online from [RyPress](http://rypress.com/tutorials/git/index), also available for free on [Kindle](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC)
+* An easy-to-read, pragmatic guide to using Git available online from [RyPress](https://github.com/alokc83/Basic-Tutorials/blob/master/rypress.com%20Git/0_Ry's%20Git%20Tutorial.pdf), also available for free on [Kindle](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC)
 * [Git Reference](https://git-scm.com/docs) is another official Git resource, providing quick instructions for using common commands.
 * This very thorough and well laid out tutorial from [Atlassian](https://www.atlassian.com/git/tutorials/)
 * For a more in-depth understanding of Git, read the free [ProGit eBook](https://git-scm.com/book/en/v2)
