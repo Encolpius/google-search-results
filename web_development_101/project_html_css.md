@@ -94,6 +94,10 @@ There are a couple of ways to go about doing this, but the simplest is this:
 Submit a pull request with a link to your solution in this [file](https://github.com/TheOdinProject/curriculum/edit/master/web_development_101/project_html_css.md) when your project is complete. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
 
 * Add your solution below this list
+* [Mary Chew's Solution (Easy)](https://github.com/marychew97/google-homepage) - [View in Browser](https://marychew97.github.io/google-homepage/)
+* [Evan Medrano's Solution (Easy)](https://satisfiedpunk.github.io/google-homepage/) - [View in Browser](https://satisfiedpunk.github.io/google-homepage/)
+* [Mohsin Ijaz's Solution (Easy)](https://github.com/jarralz/google-homepage) - [View in Browser](https://jarralz.github.io/google-homepage/)
+* [Cristina Popescu's Solution (Difficult)](https://github.com/CristinaAP/google-resultspage) - [View in browser](https://cristinaap.github.io/google-resultspage/)
 * [Nasser Ahmed's Solution (Easy)](https://github.com/SNasser97/google-homepage) - [View in Browser](https://snasser97.github.io/google-homepage/)
 * [Teng Lin's Solution (Easy)](https:github.com/tenglin2/GoogleHomepage) - [View in Browser](https://tenglin2.github.io/GoogleHomepage)
 * [Anis Bouhadida' Solution (Easy)](https://github.com/AnisBouhadida/google-homepage) - [View in Browser]( https://anisbouhadida.github.io/google-homepage/)
@@ -1642,6 +1646,12 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Rey's solution (Difficult)](https://rey810.github.io/google_results_page/) - [View in Browser](https://rey810.github.io/google_results_page/)
 * [Anatolii's solution (Easy)](https://github.com/Nt444/google-homepage) - [View in Browser](https://nt444.github.io/google-homepage/)
 * [funtikar's solution (Easy)](https://github.com/funtikar/top_project) - [View in Browser](https://funtikar.github.io/top_project/)
+* [DarkeBlayze's solution (Easy)](https://github.com/DarkeBlayze/google-homepage) - [View in Browser](https://DarkeBlayze.github.io/google-homepage/)
+* [Adam Wolcott's solution (Easy)](https://github.com/adamwolcott/google-homepage) - [View in Browser](https://adamwolcott.github.io/google-homepage)
+* [Vladimirs solution (Easy)](https://github.com/beaver28/google-homepage) - [View in Browser](https://beaver28.github.io/google-homepage)
+* [Casey Carlzen's solution (Easy)](https://github.com/ccarlzen/google_homepage) - [View in Browser](https://ccarlzen.github.io/google_homepage/)
+* [Linda's solution (Easy)](https://github.com/linducya/google-homepage) - [View in Browser](https://linducya.github.io/google-homepage/)
+* [Sofian's solution (Easy)](https://github.com/sofianbettayeb/google-homepage) - [View in Browser](https://github.com/sofianbettayeb/google-homepage)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
